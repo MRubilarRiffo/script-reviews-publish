@@ -1,0 +1,69 @@
+{
+	"reseñas": [
+		{
+			"nombre": "Rosario S.",
+			"reseña": "Funciona como corresponde al momento de probarlo solo se conecta y funciona.",
+			"calificacion": 5 
+		},
+		{
+			"nombre": "Claudio T.",
+			"reseña": "Se ve bueno. Probare un par de días y veré que tan eficaz es su ahorro de energía.",
+			"calificacion": 4 
+		},
+		{
+			"nombre": "Javiera M.",
+			"reseña": "Es muy bueno el aparato y gasta poca luz",
+			"calificacion": 5 
+		},
+		{
+			"nombre": "José P.",
+			"reseña": "Lo puse en pieza y calienta harto. En estos dias comprare otro",
+			"calificacion": 5 
+		},
+		{
+			"nombre": "Francisca G.",
+			"reseña": "Liviano y fácil de instalar, rápido para calefaccionar, excelente relación precio-calidad, salvó el poco de ruido que produce pero es normal en estos aparatos nada que no interfiera en su buen funcionamiento.",
+			"calificacion": 4 
+		},
+		{
+			"nombre": "Rodrigo F.",
+			"reseña": "Excelente, funciona impecable, lo único malo es que el cable del enchufe me queda un poco corto. Hasta ahora solo lo he usado en modo calor, pero todo bien.",
+			"calificacion": 5 
+		},
+		{
+			"nombre": "Camila V.",
+			"reseña": "Cumple la funcion.",
+			"calificacion": 4 
+		},
+		{
+			"nombre": "Vicente C.",
+			"reseña": "Hasta ahora todo bien. Lo único malo es que el control remoto benia sin pila mañana compraré una",
+			"calificacion": 5 
+		},
+		{
+			"nombre": "Catalina A.",
+			"reseña": "El producto dejó de funcionar a los dos días, pero el servicio al cliente respondió rápidamente y me enviaron un reemplazo que funciona perfectamente.",
+			"calificacion": 4
+		},
+		{
+			"nombre": "Matías N.",
+			"reseña": "El diseño es liviano y moderno, ideal para transportarlo fácilmente. Aunque al principio me preocupaba el material, ha demostrado ser resistente y duradero.",
+			"calificacion": 4 
+		},
+		{
+			"nombre": "Andrés L.",
+			"reseña": "Es muy práctico y fácil de usar. Calienta lo suficiente para mantenerme cómodo en el frío invierno. Estoy ansioso por probarlo en verano para ver cómo funciona en el calor del desierto.",
+			"calificacion": 4 
+		},
+		{
+			"nombre": "Constanza H.",
+			"reseña": "Cumple su función de calentar y enfriar. Por el precio esperaba algo de mala calidad pero me sorprendio jajaj excelente compra",
+			"calificacion": 5 
+		},
+		{
+			"nombre": "Tomás O.",
+			"reseña": "Puso uno en el baño y otro en mi dormitorio. Calienta gradualmente y es perfecto para mantener una temperatura agradable. El enfriador funciona sorprendentemente bien para refrescar el ambiente en días calurosos. Aunque el control remoto a veces puede ser un poco lento, el aparato en sí es fácil de usar y tiene un diseño moderno.",
+			"calificacion": 4
+		}
+	]
+}
